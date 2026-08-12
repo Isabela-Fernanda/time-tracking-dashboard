@@ -45,7 +45,6 @@ O usuário deve ser capaz de:
 ### Links
 
 - [Desafio no Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw)
-- Solution URL: **adicione aqui o link da sua solução no Frontend Mentor**
 - Live Site URL: [Acessar](https://isabela-fernanda.github.io/time-tracking-dashboard/)
 
 ## Meu processo
